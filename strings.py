@@ -1,0 +1,1 @@
+mystr = "i gate Coding! 4fun"
